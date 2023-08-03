@@ -7,7 +7,7 @@ module.exports = {
   ],
   theme: {
     backgroundImage: {
-      'img_bg_hero': "url('../assets/bg_hero.jpg')",
+      'img_bg_hero': "url('../assets/bg-hero.jpg')",
     },
     extend: {
        colors: {

@@ -1,7 +1,7 @@
-import Image from 'next/image'
+import { SectionHero } from '@/components/SectionHero'
 
 export default function Home() {
   return (
-    <h1>Hello World Nextjs</h1>
+    <SectionHero />
   )
 }
