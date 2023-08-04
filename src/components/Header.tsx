@@ -32,11 +32,6 @@ export function Header(){
                             </li>
                             <li>
                                 <ItemMenu 
-                                    name="Para você"
-                                />
-                            </li>
-                            <li>
-                                <ItemMenu 
                                     name="Serviços"
                                 />
                             </li>
